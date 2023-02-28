@@ -1,5 +1,0 @@
-container:
-  name: wordpress
-  image: aleksandrov22/webapp:7
-  # restart: Always
-  # labels: webapp 
